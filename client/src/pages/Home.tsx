@@ -1,5 +1,6 @@
 import Navbar from "../components/Navbar";
 import { Commodity } from "../components/Item";
+import BasicPlot from "../components/BasicPlot";
 
 const Home = () => {
   const commodities: Commodity[] = [
@@ -12,6 +13,9 @@ const Home = () => {
   return (
     <div>
       <Navbar />
+
+      <BasicPlot />
+
       <div>
         {commodities.map((c) => (
           <li key={c.id}>{c.name}</li>
