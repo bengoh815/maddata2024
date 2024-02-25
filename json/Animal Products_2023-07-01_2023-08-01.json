@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 36,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "33f4dc08-7c78-4bd6-8843-08d2ccd55054",
+            "title": "Canada has officially banned testing cosmetics on animals",
+            "description": "Canada has moved to ban the testing of cosmetics on animals, joining a number of other countries and American states to outlaw the practice.",
+            "keywords": "animal experiments, animal rights, animals, animals and society, beauty and personal care, brand safety-nsf drugs negative, brand safety-nsf sensitive, business and industry sectors, business, economy and trade, canada, consumer products, continents and regions, cosmetics and toiletries, domestic alerts, domestic-health and science, domestic-international news, experimentation and research, humane society of the united states, iab-beauty, iab-business and finance, iab-industries, iab-makeup and accessories, iab-non-profit organizations, iab-personal care, iab-science, iab-style & fashion, international alerts, international-health and science, life forms, non-profit and ngo organizations, north america, science, society, the americas",
+            "snippet": "CNN \u2014\n\nCanada has moved to ban the testing of cosmetics on animals, joining a number of other countries and American states to outlaw the practice.\n\nThe Canad...",
+            "url": "https://www.cnn.com/2023/07/02/americas/canada-ban-animal-testing-cosmetics-trnd/index.html",
+            "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/230630153305-canada-ban-animal-testing-cosmetics-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "language": "en",
+            "published_at": "2023-07-02T10:00:46.000000Z",
+            "source": "cnn.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": 16.019308,
+            "locale": "us"
+        },
+        {
+            "uuid": "8f939cf7-8e14-4557-9c6e-02824ba8dbf2",
+            "title": "Non-Medically Important Antibiotics: Tyson Foods To Reintroduce Certain Antibiotics To Chicken Production: Report - Tyson Foods (NYSE:TSN)",
+            "description": "Tyson Foods, Inc.\u00a0(NYSE: TSN) is reportedly reintroducing certain antibiotics, specifically ionophores, back into its chicken supply chain, applying to all fre...",
+            "keywords": "",
+            "snippet": "Tyson Foods, Inc. TSN is reportedly reintroducing certain antibiotics, specifically ionophores, back into its chicken supply chain, applying to all fresh, froze...",
+            "url": "https://www.benzinga.com/markets/equities/23/07/33095193/non-medically-important-antibiotics-tyson-foods-to-reintroduce-certain-antibiotics-to-chicken-pr",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/07/03/tsn.png?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2023-07-03T13:02:32.000000Z",
+            "source": "benzinga.com",
+            "categories": [
+                "business"
+            ],
+            "relevance_score": 13.118364,
+            "locale": "us"
+        },
+        {
+            "uuid": "7cd1a2bd-8020-43c2-a808-5ad696865407",
+            "title": "Worried about Lyme disease? CDC warns that 450,000 people may have been infected by a tick-related meat allergy.",
+            "description": "Alpha-gal, which can cause the allergic reaction, is a sugar found in pork, beef, rabbit, lamb and venison, among other meats.",
+            "keywords": "article_featured, redmeat, beef, pork, cdc, allergy, tick, lymedisease, Agriculture/Forestry, Biotechnology, Pharmaceuticals, Food/Beverages/Tobacco, Textiles, Retail/Wholesale, Health Care, Business/Consumer Services, Clothing/Textiles, Consumer Products, Environment/Waste Management, Product/Consumer Safety, Corporate/Industrial News, Products/Services, Allergies, Political/General News, Society/Community, Consumer Affairs, Health, Medical Conditions, Vector-borne/Zoonotic Diseases, Infectious Diseases, Content Types, Commentary/Opinion, Factiva Filters, C&E Executive News Filter, CDC, Lymedisease, product, consumer safety, corporate, industrial news, products, services, allergies, political, general news, society, community, consumer affairs, health, medical conditions, vector-borne, zoonotic diseases, infectious diseases, content types, commentary, opinion, factiva filters, c&e executive news filter, agriculture, forestry, biotechnology, pharmaceuticals, food, beverages, tobacco, textiles, retail, wholesale, health care, business, consumer services, clothing, consumer products, environment, waste management",
+            "snippet": "Paranoid about ticks this summer? Add red meat to that list too.\n\nThe CDC reported that there were more than 110,000 suspected cases of alpha-gal syndrome, or A...",
+            "url": "https://www.marketwatch.com/story/worried-about-lyme-disease-cdc-warns-that-450-000-people-may-have-been-infected-by-a-tick-related-meat-allergy-1511bf14",
+            "image_url": "https://images.mktw.net/im-825760/social",
+            "language": "en",
+            "published_at": "2023-07-28T16:56:00.000000Z",
+            "source": "marketwatch.com",
+            "categories": [
+                "business",
+                "general"
+            ],
+            "relevance_score": 11.690821,
+            "locale": "us"
+        }
+    ]
+}

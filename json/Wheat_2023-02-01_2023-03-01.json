@@ -21,7 +21,7 @@
                 "entertainment",
                 "general"
             ],
-            "relevance_score": 20.29997,
+            "relevance_score": 20.299387,
             "locale": "us"
         },
         {
@@ -38,7 +38,7 @@
             "categories": [
                 "business"
             ],
-            "relevance_score": 15.221388,
+            "relevance_score": 15.220654,
             "locale": "us"
         },
         {
@@ -57,7 +57,7 @@
                 "entertainment",
                 "politics"
             ],
-            "relevance_score": 14.118779,
+            "relevance_score": 14.118087,
             "locale": "us"
         }
     ]
