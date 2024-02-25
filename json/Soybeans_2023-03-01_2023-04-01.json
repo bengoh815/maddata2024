@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 56,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "a6f0d698-bb62-4c4b-956a-cc563c30ccf9",
+            "title": "A woolly mammoth meatball? Scientists grew prehistoric meat with extinct animal DNA",
+            "description": "A cell-based meat company resurrected the extinct woolly mammoth in the form of a lab-grown meatball.",
+            "keywords": "",
+            "snippet": "A woolly mammoth meatball? Scientists grew prehistoric meat with extinct animal DNA\n\nShow Caption Hide Caption CIA-funded In-Q-Tel backs biotech to resurrect wo...",
+            "url": "https://www.usatoday.com/story/news/world/2023/03/28/woolly-mammoth-meat-lab-grown/11554736002/",
+            "image_url": "https://www.gannett-cdn.com/presto/2023/03/28/USAT/75b3abe3-80fb-4c05-ba24-09306ef788d8-Mammoth_Ball_01.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200",
+            "language": "en",
+            "published_at": "2023-03-28T18:30:12.000000Z",
+            "source": "usatoday.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": 21.501894,
+            "locale": "us"
+        },
+        {
+            "uuid": "84272d6d-422c-4277-8dd6-131b087c2957",
+            "title": "People with diabetes lived longer on lower carb and plant-based diet, study finds",
+            "description": "Moderating carbohydrates and avoiding processed food and meats appears to lower the risk of cardiovascular disease and cancer, a Harvard study finds.",
+            "keywords": "",
+            "snippet": "People with diabetes lived longer on lower carb and plant-based diet, study finds\n\nShow Caption Hide Caption City gardens, produce stands ease food desert woes ...",
+            "url": "https://www.usatoday.com/story/news/health/2023/03/11/healthy-diabetes-diet-carbs/11374472002/",
+            "image_url": "https://www.gannett-cdn.com/presto/2023/01/03/USAT/dba26ab9-095c-4e83-8962-150ae33e479c-GettyImages-1390699821.jpg?auto=webp&crop=2120,1193,x0,y0&format=pjpg&width=1200",
+            "language": "en",
+            "published_at": "2023-03-11T11:00:01.000000Z",
+            "source": "usatoday.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": 14.73966,
+            "locale": "us"
+        },
+        {
+            "uuid": "c6d6456b-6cf1-44aa-90d5-c9064bf3fcd5",
+            "title": "Hershey debuts plant-based Reese's Cups, chocolate bars",
+            "description": "Reese\u2019s Peanut Butter Cups are getting the vegan treatment",
+            "keywords": "Vegetarian and vegan, Business, Food and drink, Business, General news, Health, Lifestyle",
+            "snippet": "Reese\u2019s Peanut Butter Cups are getting the vegan treatment.\n\nThe Hershey Co. said Tuesday that Reese\u2019s Plant Based Peanut Butter Cups, which go on sale this...",
+            "url": "https://abcnews.go.com/US/wireStory/hershey-debuts-plant-based-reeses-cups-chocolate-bars-97680670",
+            "image_url": "https://s.abcnews.com/images/US/wirestory_7726f67dc493f6db479fab014ce9d95f_16x9_992.jpg",
+            "language": "en",
+            "published_at": "2023-03-07T14:17:42.000000Z",
+            "source": "abcnews.go.com",
+            "categories": [
+                "general",
+                "politics"
+            ],
+            "relevance_score": 14.286669,
+            "locale": "us"
+        }
+    ]
+}

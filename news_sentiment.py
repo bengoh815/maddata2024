@@ -16,13 +16,13 @@ def generate_monthly_ranges(year):
     return ranges
 
 # List of crops
-crops = ['Barley', 'Beans', 'Canola', 'Corn', 'Cotton', 'Flaxseed', 'Hay', 'Maple Syrup', 'Millet', 'Mint', 'Oats', 'Peanuts', 'Peas', 'Rice', 'Sorghum', 'Soybeans', 'Sunflower', 'Tobacco', 'Wheat']
+crops = ['Animal Products', 'Corn', 'Fish', 'Fruit', 'Nuts', 'Soybeans', 'Vegetables', 'Wheat']
 
 # Set up the HTTPS connection
 conn = http.client.HTTPSConnection('api.thenewsapi.com')
 
 # API Token
-api_token = 'your_api_token'  # Replace with your actual API token
+api_token = 'b8D0Iyl8Ue426ajciJVgrtb4wtSJUZtSnt9qFOJb'  # Replace with your actual API token
 
 # Iterate over each crop and each month
 for crop in crops:
@@ -30,7 +30,7 @@ for crop in crops:
         # Set up the parameters
         params = urllib.parse.urlencode({
             'api_token': api_token,
-            'search': crop,
+            'search': 'Animal Products',
             'locale': 'us',
             'language': 'en',
             'published_before': date_range['published_before'],
