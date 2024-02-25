@@ -22,7 +22,7 @@ crops = ['Animal Products', 'Corn', 'Fish', 'Fruit', 'Nuts', 'Soybeans', 'Vegeta
 conn = http.client.HTTPSConnection('api.thenewsapi.com')
 
 # API Token
-api_token = 'b8D0Iyl8Ue426ajciJVgrtb4wtSJUZtSnt9qFOJb'  # Replace with your actual API token
+api_token = 'Fqu0p8bEjmnVcdZrKALsKvSQrpUUVr3vAYCrC8QH'  # Replace with your actual API token
 
 # Iterate over each crop and each month
 for crop in crops:
