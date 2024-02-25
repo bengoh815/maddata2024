@@ -1,12 +1,11 @@
 import Navbar from "../components/Navbar";
 
-const About = () => {
+const Contact = () => {
   return (
     <div>
       <Navbar />
-      <h1 className="">About us</h1>
+      This is contact page
     </div>
   );
 };
-
-export default About;
+export default Contact;
