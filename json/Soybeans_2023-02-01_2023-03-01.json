@@ -1,0 +1,64 @@
+{
+    "meta": {
+        "found": 44,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "8bc294b6-6f5e-490f-842c-0ff79bb942ef",
+            "title": "In Honor of Groundhog Day: 11 Skincare Products I Use Over and Over",
+            "description": "The silliest and most superstitious of holidays (and most Pennsylvania-centric!) predicts six more weeks of winter. These skincare products should help us all c...",
+            "keywords": "",
+            "snippet": "The brands featured in this article are partners of NBCUniversal Checkout. E! make a commission on your purchase. Prices are accurate as of publish time. Items ...",
+            "url": "https://www.eonline.com/news/1363566/in-honor-of-groundhog-day-here-are-the-11-skincare-products-i-use-again-and-again-and-again?cmpid=rss-syndicate-genericrss-us-top_stories",
+            "image_url": "https://akns-images.eonline.com/eol_images/Entire_Site/202312/rs_1200x1200-230202083858-1200-ecmm.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "language": "en",
+            "published_at": "2023-02-02T21:09:42.000000Z",
+            "source": "eonline.com",
+            "categories": [
+                "entertainment",
+                "general"
+            ],
+            "relevance_score": 20.29997,
+            "locale": "us"
+        },
+        {
+            "uuid": "8257e473-a5c5-46b9-9a7e-6d231450757c",
+            "title": "CBD For Traumatic Brain Injuries? Oral Administration Reduces Levels Of Neuronal Death In Animal Model, New Study - Medical Marijuana (OTC:MJNA)",
+            "description": "HempMeds, a subsidiary of Medical Marijuana, Inc. (OTCPK:MJNA) took part in a collaboration on a study to demonstrate the effectiveness of hemp-based CBD in the...",
+            "keywords": "",
+            "snippet": "HempMeds, a subsidiary of Medical Marijuana, Inc. MJNA took part in a collaboration on a study to demonstrate the effectiveness of hemp-based CBD in the treatme...",
+            "url": "https://www.benzinga.com/markets/cannabis/23/02/30731508/cbd-for-traumatic-brain-injuries-oral-administration-reduces-levels-of-neuronal-death-in-animal-",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/02/06/esteban.jpg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2023-02-06T15:04:15.000000Z",
+            "source": "benzinga.com",
+            "categories": [
+                "business"
+            ],
+            "relevance_score": 15.221388,
+            "locale": "us"
+        },
+        {
+            "uuid": "398ae55a-c874-4830-b784-789d083aca8e",
+            "title": "A Slice of \u2018Bacon\u2019 Made Me Believe in Fake Meat",
+            "description": "Plant-based meat is in a slump. Could adding some lab-grown animal fat get people hooked?",
+            "keywords": "new kind of plant-based meat, cultivated-fat company Hoxton Farms, golden fat, real meat, plant-based meat, incomparable juiciness of animal fat, plant-based-meat industry, just-okay flavor of plant-based meat, vat.This lab-grown fat, cultivated-fat products, Mission Barns, real pork fat, fat, strip of fake bacon, fat cells, human body, coming years, visible plant-based-meat companies, cultivated-fat companies, plant protein, chicken breasts, product taste, Impossible Foods, Last month, Lab-grown fat, high price, less meat, lab-grown meat, concoction of plant oils, CEO of Mission Barns, complicated process, regular people, average consumer, plants, start-up innovation specialist, meat consumption, cell types, dining table, fat.Animal fat, molecular level, plant fat, own plant-based products, plant-based foods, meat, source of both rich flavor, pork chop, real deal, more complex notion, products, San Francisco",
+            "snippet": "Last month, at a dining table in a sunny New York City hotel suite, I found myself thrown completely off guard by a strip of fake bacon. I was there to taste a ...",
+            "url": "https://www.theatlantic.com/health/archive/2023/02/plant-based-meat-lab-grown-animal-fat-flavor/673190/",
+            "image_url": "https://cdn.theatlantic.com/thumbor/f4COhxuSfH-xySXvuzkOfoA1CgY=/0x61:2876x1559/1200x625/media/img/mt/2023/02/fake_fat/original.jpg",
+            "language": "en",
+            "published_at": "2023-02-23T18:34:13.000000Z",
+            "source": "theatlantic.com",
+            "categories": [
+                "general",
+                "entertainment",
+                "politics"
+            ],
+            "relevance_score": 14.118779,
+            "locale": "us"
+        }
+    ]
+}

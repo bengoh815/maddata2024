@@ -1,0 +1,64 @@
+{
+    "meta": {
+        "found": 27,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "eef59598-0abc-48b7-a078-6e675a610559",
+            "title": "Russian official wants ban on vegetarianism for children",
+            "description": "Plant-based and raw food diets are \u2018unacceptable\u2019 for children, a Russian official has argued",
+            "keywords": "",
+            "snippet": "An ombudswoman has claimed that animal protein-free diets should be outlawed for minors\n\nVegetarianism and raw food diets should be legally banned for minors in...",
+            "url": "https://www.rt.com/russia/585271-russia-ban-vegetarianism-children/",
+            "image_url": "https://mf.b37mrtl.ru/files/2023.10/article/652ff2b32030275be81b5196.jpg",
+            "language": "en",
+            "published_at": "2023-10-18T15:12:59.000000Z",
+            "source": "rt.com",
+            "categories": [
+                "general",
+                "politics"
+            ],
+            "relevance_score": 13.648806,
+            "locale": "us"
+        },
+        {
+            "uuid": "a718247e-d0c0-4e6c-b9e5-7f58f2bef8f4",
+            "title": "No, the Government Isn\u2019t Coming for Your Burger\u2014but Maybe It Should Be",
+            "description": "Governments are making phaseout plans for gas-powered cars and coal-fired power plants\u2014but have done surprisingly little on another set of potent polluters.",
+            "keywords": "",
+            "snippet": "There are some good reasons why most policymakers have concrete plans to phase out coal power plants but take only occasional, haphazard steps to limit the grow...",
+            "url": "https://newrepublic.com/article/175875/no-government-isnt-coming-burgerbut-maybe",
+            "image_url": "https://images.newrepublic.com/dc522c713452de0367c6882bcee106d8b8d34bb6.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+            "language": "en",
+            "published_at": "2023-10-03T10:00:00.000000Z",
+            "source": "newrepublic.com",
+            "categories": [
+                "general",
+                "politics",
+                "entertainment"
+            ],
+            "relevance_score": 13.4129305,
+            "locale": "us"
+        },
+        {
+            "uuid": "c9a7c918-c6c1-4ec8-8090-0d4def1a466f",
+            "title": "Organic? Free range? What do food labels actually mean?",
+            "description": "Navigating the grocery aisle is overwhelming, especially when trying to make sense of food labels. Nutrition claims like \u201csugar-free\u201d or \u201creduced fat\u201d a...",
+            "keywords": "accidents, disasters and safety, agriculture, agriculture, forestry, and commercial fishing, animal farming and livestock, animals, antibiotics, brand safety-nsf products and consumers negative, brand safety-nsf sensitive, business and industry sectors, business, economy and trade, company activities and management, consumer products, consumer protection, diet and nutrition, diet, nutrition and fitness, domestic alerts, domestic-business, domestic-health and science, food and beverage industry, food and drink, food packaging, food production industry, food products, food safety, food safety regulation, food trends, government organizations - us, health and medical, iab-agriculture, iab-business, iab-business and finance, iab-business operations, iab-consumer issues, iab-food & drink, iab-food industry, iab-food movements, iab-healthy cooking and eating, iab-healthy living, iab-industries, iab-medical health, iab-nutrition, iab-pharmaceutical drugs, iab-pharmaceutical industry, international alerts, international-business, international-health and science, kinds of foods and beverages, life forms, livestock, nutrition, organic foods, packaged foods, pharmaceutical industry, pharmaceuticals, pharmaceuticals and prescription drugs, product management, product packaging, product safety, safety issues and practices, society, us department of agriculture, us federal departments and agencies",
+            "snippet": "New York CNN \u2014\n\nNavigating the grocery aisle is overwhelming, especially when trying to make sense of food labels. Nutrition claims like \u201csugar-free\u201d or ?...",
+            "url": "https://www.cnn.com/2023/10/07/business/food-labels-meaning/index.html",
+            "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/231006040703-01-food-labels-meaning.jpg?c=16x9&q=w_800,c_fill",
+            "language": "en",
+            "published_at": "2023-10-07T12:08:34.000000Z",
+            "source": "cnn.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": 13.220926,
+            "locale": "us"
+        }
+    ]
+}

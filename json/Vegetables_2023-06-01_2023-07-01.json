@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 40,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "45a9b65e-f26e-4c37-a43c-42ddf61b03d1",
+            "title": "US beefs up campaign to ensure accurate animal welfare claims on meat, poultry packaging",
+            "description": "The U.S. Department of Agriculture says it hopes to weed out false or misleading animal-welfare claims on meat and poultry packaging with new guidance and testi...",
+            "keywords": "Business, U.S. news, General news, Lifestyle, Business",
+            "snippet": "File - Barred Rock chickens roost in their coop Tuesday, Jan. 10, 2023, at a farm in Glenview, Ill. The USDA trying to strengthen its system for animal-raising ...",
+            "url": "https://abcnews.go.com/US/wireStory/us-beefs-campaign-ensure-accurate-animal-welfare-claims-100063905",
+            "image_url": "https://s.abcnews.com/images/US/wirestory_31244fe3fa7a5b2e14db8cd0c700d9d2_16x9_992.jpg",
+            "language": "en",
+            "published_at": "2023-06-14T10:31:55.000000Z",
+            "source": "abcnews.go.com",
+            "categories": [
+                "general",
+                "politics"
+            ],
+            "relevance_score": 20.933283,
+            "locale": "us"
+        },
+        {
+            "uuid": "a1a72960-0a48-49f6-aa9e-bf6e556e86d6",
+            "title": "Is lab-grown meat kosher or halal? Can religious vegetarians eat it? It\u2019s complicated",
+            "description": "The USDA gave two brands, Good Meat and Upside Foods, the green light last week to start producing and selling lab-grown, or cultivated, chicken in the United S...",
+            "keywords": "animals, belief, religion and spirituality, brand safety-nsf religion, brand safety-nsf sensitive, business and industry sectors, business, economy and trade, consumer products, diet and nutrition, diet, nutrition and fitness, domestic alerts, domestic-health and science, food and beverage industry, food and drink, food production industry, food products, food trends, health and medical, iab-food & drink, iab-food movements, iab-healthy cooking and eating, iab-healthy living, iab-religion & spirituality, iab-vegetarian diets, iab-world cuisines, international alerts, international cuisine, international-health and science, jewish people, kinds of foods and beverages, kosher food, life forms, meat products, minority and ethnic groups, society, vegetarian and vegan diets",
+            "snippet": "New York CNN \u2014\n\nThe USDA gave two brands, Good Meat and Upside Foods, the green light last week to start producing and selling lab-grown, or cultivated, chick...",
+            "url": "https://www.cnn.com/2023/06/27/business/lab-grown-meat-kosher-halal/index.html",
+            "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/230626130616-01-eat-just-inc-good-meat-cultivated-chicken.jpg?c=16x9&q=w_800,c_fill",
+            "language": "en",
+            "published_at": "2023-06-27T10:30:04.000000Z",
+            "source": "cnn.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": 15.430943,
+            "locale": "us"
+        },
+        {
+            "uuid": "c5c4ba9b-f87f-49a1-8d59-3940388e5b57",
+            "title": "Lab-grown chicken meat gets green light from federal regulators",
+            "description": "Upside Foods and Eat Just will sell the",
+            "keywords": "FDA, United States Department of Agriculture",
+            "snippet": "From \"free range\" to \"lab grown,\" some chicken served in restaurants \u2014 and eventually grocery store shelves \u2014 in the U.S. is taking the next step towards th...",
+            "url": "https://www.cbsnews.com/news/lab-grown-chicken-meat-gets-green-light-from-federal-regulators/",
+            "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/21/4aaf9105-cd6c-46df-8dcc-1e8bc1d5173f/thumbnail/1200x630/8f2dcb7f9c75cf67500b6ea396400f6c/gettyimages-1230258332.jpg?v=23da2bed74e9783333cf303fba619e89",
+            "language": "en",
+            "published_at": "2023-06-21T18:27:57.000000Z",
+            "source": "cbsnews.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": 14.66288,
+            "locale": "us"
+        }
+    ]
+}
