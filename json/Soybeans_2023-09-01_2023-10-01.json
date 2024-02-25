@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 23,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "3be65aa7-fe3b-463f-8937-eefe78834861",
+            "title": "Seahorses, snakes and illegal pork from Vietnam seized by US Customs",
+            "description": "When it comes to inspecting luggage, \u201cthere\u2019s never a dull moment,\u201d customs agents at Washington\u2019s Dulles Airport said after opening the bags of two pas...",
+            "keywords": "alternative medicine, animals, asia, business and industry sectors, business, economy and trade, continents and regions, domestic alerts, domestic-business, domestic-health and science, domestic-international news, economic policy, economy and economic indicators, environment and natural resources, excise and customs, food and beverage industry, food production industry, government organizations - us, health and medical, iab-agriculture, iab-alternative medicine, iab-business and finance, iab-economy, iab-food & drink, iab-healthy living, iab-industries, iab-travel, iab-wellness, international alerts, international trade, international trade law, international-business, international-health and science, life forms, north america, reptiles and amphibians, snakes, southeast asia, tariffs and customs, the americas, trade and development, trade regulation and policy, travel and tourism, united states, us customs and border protection, us department of homeland security, us federal departments and agencies, vietnam, wildlife",
+            "snippet": "CNN \u2014\n\nWhen it comes to inspecting luggage, \u201cthere\u2019s never a dull moment,\u201d customs agents at Washington\u2019s Dulles Airport said after opening the bags o...",
+            "url": "https://www.cnn.com/2023/09/03/us/cbp-seize-vietnam-products-snakes-trnd/index.html",
+            "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/230901150004-04-cbp-seize-seahorses-snakes.jpg?c=16x9&q=w_800,c_fill",
+            "language": "en",
+            "published_at": "2023-09-03T06:07:32.000000Z",
+            "source": "cnn.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": 13.695471,
+            "locale": "us"
+        },
+        {
+            "uuid": "ba91313d-4371-4bed-8021-38e3648e443f",
+            "title": "\u2018Steak\u2019 and \u2018ham\u2019 labels on plant-based foods? France says non.",
+            "description": "France hopes to ban vegan foodmakers from using words like steak, ham, and fillet to describe plant-based proteins, following similar bans in several U.S. state...",
+            "keywords": "",
+            "snippet": "Listen 4 min Share Comment\n\nFrench people are known around the world for their culinary traditions and the reverent status enjoyed by meat on menus across the c...",
+            "url": "https://www.washingtonpost.com/world/2023/09/05/vegan-meat-ban-france/",
+            "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5BWF56Y42FZ3OFNXFKCD5W6KGA.jpg&w=1440",
+            "language": "en",
+            "published_at": "2023-09-05T13:50:00.000000Z",
+            "source": "washingtonpost.com",
+            "categories": [
+                "general",
+                "politics"
+            ],
+            "relevance_score": 11.974354,
+            "locale": "us"
+        },
+        {
+            "uuid": "5a8ce24a-c024-42e4-a944-62017cd908c9",
+            "title": "CBD-Focused Pharma Co. Seeks Funding To Revolutionize Healthcare - InnoCan Pharma (OTC:INNPF)",
+            "description": "Innocan Pharma Corporation (CSE: INNO) (FSE: IP4) (OTCQB: INNPF) has entered into an agreement with Research Capital Corporation as the sole agent and sole book...",
+            "keywords": "",
+            "snippet": "Innocan Pharma Corporation INNO IP INNPF has entered into an agreement with Research Capital Corporation as the sole agent and sole book-runner on a \"best effor...",
+            "url": "https://www.benzinga.com/markets/cannabis/23/09/34799477/cbd-focused-pharma-co-seeks-funding-to-revolutionize-healthcare",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/09/21/micheile-henderson-zvprbbmt8qa-unsplash.jpg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2023-09-21T17:08:02.000000Z",
+            "source": "benzinga.com",
+            "categories": [
+                "business"
+            ],
+            "relevance_score": 11.396309,
+            "locale": "us"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "meta": {
+        "found": 31,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "03c4a4ed-3612-473f-8552-84d20bcb21bd",
+            "title": "Americans can\u2019t afford their pets. It\u2019s pushing animal shelters to the brink.",
+            "description": "Americans adopted animals at record rates in 2020. Now many are headed back to the shelter amid high inflation and a housing crisis.",
+            "keywords": "",
+            "snippet": "Lonely and stuck at home, millions of Americans turned to animals for comfort in the early days of the Covid-19 pandemic, adopting and fostering cats and dogs f...",
+            "url": "https://www.vox.com/future-perfect/2023/8/16/23833307/pets-animal-shelters-cats-dogs-affordable-housing-inflation",
+            "image_url": "https://cdn.vox-cdn.com/thumbor/dqNrMqB53RrUaDvQqcRSOAljyX8=/0x92:4189x2285/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24852533/GettyImages_1401741294.jpg",
+            "language": "en",
+            "published_at": "2023-08-16T10:37:02.000000Z",
+            "source": "vox.com",
+            "categories": [
+                "general",
+                "politics",
+                "entertainment"
+            ],
+            "relevance_score": 18.920097,
+            "locale": "us"
+        },
+        {
+            "uuid": "36fec645-1022-4584-a73a-acce65a85c12",
+            "title": "Tofu is still a popular alternative to meat, but is it actually good for you? Here's what the science says",
+            "description": "Tofu is often used as a substitute for animal-based foods, but with such high levels of soy, is tofu actually healthy? Here's what research shows.",
+            "keywords": "Nutrition, Health, Diets and dieting",
+            "snippet": "Tofu was created centuries ago in Asia from mainly soybeans and water. Today, it is one of the most popular plant-based foods and an easy substitute for animal ...",
+            "url": "https://www.cnbc.com/2023/08/30/is-tofu-actually-good-for-you-heres-what-a-nutritionist-says.html",
+            "image_url": "https://image.cnbcfm.com/api/v1/image/107293477-1693339744245-gettyimages-1167035621-img_7022-edit.jpeg?v=1693406119&w=1920&h=1080",
+            "language": "en",
+            "published_at": "2023-08-30T14:35:19.000000Z",
+            "source": "cnbc.com",
+            "categories": [
+                "general",
+                "business"
+            ],
+            "relevance_score": 14.498074,
+            "locale": "us"
+        },
+        {
+            "uuid": "6278ac00-f5dc-4734-bbd5-345240521c75",
+            "title": "Traveler stopped at Dulles airport with 77 dry seahorses, 5 dead snakes",
+            "description": "Two travelers were stopped recently with prohibited products, including on person who had dead snakes and dried seahorses.",
+            "keywords": "snake, U.S. Customs and Border Protection",
+            "snippet": "Two travelers at Dulles airport this month were stopped with an array of unusual items \u2014 including dried seahorses, dead snakes, an ointment made with snails ...",
+            "url": "https://www.cbsnews.com/news/traveler-dulles-airport-dry-seahorses-dead-snakes-customs-border-protection/",
+            "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/23/ad227b80-b3c9-4ed1-8182-178acdbd0bda/thumbnail/1200x630/a9115752df42c3069f067a536955ed3d/dulles-airport-seizures.png?v=2d4fe0207a5a36b9cd65a668b55f91b2",
+            "language": "en",
+            "published_at": "2023-08-23T18:53:53.000000Z",
+            "source": "cbsnews.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": 14.286669,
+            "locale": "us"
+        }
+    ]
+}

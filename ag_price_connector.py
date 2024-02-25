@@ -2,7 +2,7 @@ import os
 import pandas as pd
 # Get a list of all CSV filenames in the directory, excluding Wheat.csv and nass.csv
 data_directory = '/Users/arjun/Documents/maddata/maddata/data'
-commodity_files = [file for file in os.listdir(data_directory) if file.endswith('.csv') and file not in ['out.csv', 'nass.csv']]
+commodity_files = [file for file in os.listdir(data_directory) if file.endswith('.csv') and file not in ['out.csv', 'sorted_agricultural_prices.csv']]
 
 # Function to merge nass production data with commodity data
 def merge_production(commodity_file, nass_data):
@@ -31,7 +31,7 @@ def merge_production(commodity_file, nass_data):
 
 # Apply the merge_production function to each commodity file
 merged_data_samples = {}
-nass_data = pd.read_csv(os.path.join(data_directory, 'nass.csv'))
+nass_data = pd.read_csv(os.path.join(data_directory, 'sorted_agricultural_prices.csv'))
 for commodity_file in commodity_files:
     merged_data_samples[commodity_file] = merge_production(commodity_file, nass_data)
 

@@ -1,0 +1,65 @@
+{
+    "meta": {
+        "found": 23,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "aa422e99-22d6-4fb9-a361-1d7c7ed3aef0",
+            "title": "Should labs try to create exotic animal meat?",
+            "description": "How far is too far for exotic animal meat grown in a lab?",
+            "keywords": "",
+            "snippet": "Meat alternatives seem to be all the rage these days, with plant-based meats rising to the forefront. However, another option is also gaining traction: laborato...",
+            "url": "https://theweek.com/health-and-science/1022214/should-labs-try-to-create-exotic-animal-meat",
+            "image_url": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1680298168/GettyImages-1071525440.jpg",
+            "language": "en",
+            "published_at": "2023-04-02T09:25:06.000000Z",
+            "source": "theweek.com",
+            "categories": [
+                "general",
+                "politics"
+            ],
+            "relevance_score": 21.187881,
+            "locale": "us"
+        },
+        {
+            "uuid": "6a31f1d3-9e1a-4dc4-8fb5-2fae97322d28",
+            "title": "PETA Dunks LeBron James for Serving Milk at Player\u2019s Ohio Community Center",
+            "description": "People for the Ethical Treatment of Animals is steamed at NBA GOAT LeBron James for sitting idly by while his new community center serves milk",
+            "keywords": "",
+            "snippet": "People for the Ethical Treatment of Animals is steamed at NBA GOAT LeBron James for sitting idly by while the Starbucks operating inside his Akron, Ohio, commun...",
+            "url": "https://www.breitbart.com/sports/2023/04/09/peta-dunks-lebron-james-for-serving-milk-at-players-ohio-community-center/",
+            "image_url": "https://media.breitbart.com/media/2022/05/Arturo-Holmes_Getty-Images-640x335.jpg",
+            "language": "en",
+            "published_at": "2023-04-10T01:51:04.000000Z",
+            "source": "breitbart.com",
+            "categories": [
+                "general",
+                "politics"
+            ],
+            "relevance_score": 14.761555,
+            "locale": "us"
+        },
+        {
+            "uuid": "c9fdd56e-397c-4ea2-822d-c76f3b686640",
+            "title": "Were the Impossible and Beyond burgers a fad, or is plant-based meat here to stay?",
+            "description": "Alternative meat products have gotten a lot better. They\u2019re not nearly good enough.",
+            "keywords": "",
+            "snippet": "A few years ago, plant-based meat seemed poised to take over the center of the American plate.\n\nSales growth for cow\u2013free burger patties and meatless sausages...",
+            "url": "https://www.vox.com/future-perfect/2023/4/17/23682232/impossible-beyond-plant-based-meat-sales",
+            "image_url": "https://cdn.vox-cdn.com/thumbor/cATFcKlAFCaa37faygg1uj3B190=/0x158:5829x3210/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24585795/GettyImages_1183778266.jpg",
+            "language": "en",
+            "published_at": "2023-04-17T11:07:40.000000Z",
+            "source": "vox.com",
+            "categories": [
+                "general",
+                "politics",
+                "entertainment"
+            ],
+            "relevance_score": 14.58934,
+            "locale": "us"
+        }
+    ]
+}

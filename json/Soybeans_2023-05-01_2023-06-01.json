@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 52,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "082cf0b8-3ebc-41b7-b3bd-89c5e3e2ae6b",
+            "title": "Animal rights: Supreme Court ducks challenge to California ban on foie gras",
+            "description": "Duck and goose farmers have challenged the California ban on foie gras three times at the Supreme Court. The latest denial means the ban will stand.",
+            "keywords": "",
+            "snippet": "Animal rights: Supreme Court ducks challenge to California ban on foie gras\n\nShow Caption Hide Caption This is why foie gras is so expensive The idea of eating ...",
+            "url": "https://www.usatoday.com/story/news/politics/2023/05/22/animal-rights-supreme-court-california-foie-gras/70242642007/",
+            "image_url": "https://www.gannett-cdn.com/presto/2023/05/17/USAT/1f21db2e-4234-4110-8a93-8b2fd55884bf-AFP_AFP_33B97VP.jpg?auto=webp&crop=3499,1969,x0,y324&format=pjpg&width=1200",
+            "language": "en",
+            "published_at": "2023-05-22T13:59:23.000000Z",
+            "source": "usatoday.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": 20.574356,
+            "locale": "us"
+        },
+        {
+            "uuid": "86eebd08-e74a-4c8f-9133-08eaefbbeb06",
+            "title": "The Supreme Court\u2019s ruling on humane treatment of pigs could catalyze a wave of new animal welfare laws",
+            "description": "The Supreme Court has upheld a controversial California law requiring pork sold in-state to be humanely raised, no matter where it\u2019s produced. Pork producers ...",
+            "keywords": "",
+            "snippet": "Should California be able to require higher welfare standards for farm animals raised in other states if products from those animals are to be sold in Californi...",
+            "url": "https://theconversation.com/the-supreme-courts-ruling-on-humane-treatment-of-pigs-could-catalyze-a-wave-of-new-animal-welfare-laws-205548",
+            "image_url": "https://images.theconversation.com/files/525957/original/file-20230512-22-a35zgz.jpeg?ixlib=rb-1.1.0&rect=12%2C778%2C4077%2C2035&q=45&auto=format&w=1356&h=668&fit=crop",
+            "language": "en",
+            "published_at": "2023-05-15T13:09:26.000000Z",
+            "source": "theconversation.com",
+            "categories": [
+                "general",
+                "politics"
+            ],
+            "relevance_score": 19.66546,
+            "locale": "us"
+        },
+        {
+            "uuid": "89e6fbd2-36e6-4832-99df-0accab4a7e03",
+            "title": "Supreme Court sides with California on animal welfare law that could have impact beyond bacon",
+            "description": "At issue is a 2018 ballot initiative that bans the sale of bacon and other pork products in California unless the pigs are housed in larger pens.",
+            "keywords": "",
+            "snippet": "Supreme Court sides with California on animal welfare law that could have impact beyond bacon\n\nShow Caption Hide Caption Biden's student loan forgiveness plan t...",
+            "url": "https://www.usatoday.com/story/news/politics/2023/05/11/supreme-court-california-animal-cruelty-law-prop-12/11093597002/",
+            "image_url": "https://www.gannett-cdn.com/presto/2022/10/10/USAT/697ad03c-f9fe-47e0-8bc6-ed195769f7ca-XXX_Smithfield-ham-hdb3205.JPG?auto=webp&crop=4255,2393,x0,y213&format=pjpg&width=1200",
+            "language": "en",
+            "published_at": "2023-05-11T16:37:08.000000Z",
+            "source": "usatoday.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": 19.24834,
+            "locale": "us"
+        }
+    ]
+}

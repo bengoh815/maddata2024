@@ -1,0 +1,63 @@
+{
+    "meta": {
+        "found": 53,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "1e27002e-65db-4489-973e-6f2842ca6efb",
+            "title": "Bill Gates says fake meat products will \u2018eventually\u2019 be \u2018very good\u2019",
+            "description": "Microsoft co-founder turned\u00a0billionaire philanthropist\u00a0Bill Gates\u00a0said he is hopeful that fake meat products will eventually be a \"very good\" option for cons...",
+            "keywords": "News, Beyond Meat, bill gates, meat, microsoft",
+            "snippet": "Microsoft co-founder turned billionaire philanthropist Bill Gates said he is hopeful that fake meat products will eventually be a \u201cvery good\u201d option for con...",
+            "url": "https://nypost.com/2023/01/15/bill-gates-says-fake-meat-products-will-eventually-be-very-good/",
+            "image_url": "https://nypost.com/wp-content/uploads/sites/2/2023/01/newspress-collage-25372149-1673756975977.jpg?quality=75&strip=all&1673739013&w=1024",
+            "language": "en",
+            "published_at": "2023-01-15T05:02:53.000000Z",
+            "source": "nypost.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": 23.505596,
+            "locale": "us"
+        },
+        {
+            "uuid": "f7b672c0-6233-4deb-9344-cb2716b6599b",
+            "title": "New regulations ahead for CBD products, FDA says",
+            "description": "CBD products will require a new regulatory pathway, the US Food and Drug Administration said Thursday, and the agency plans to work with Congress to develop a s...",
+            "keywords": "brand safety-nsf drugs negative, brand safety-nsf sensitive, business and industry sectors, business, economy and trade, controlled substances, domestic alerts, domestic-health and science, domestic-us politics, drugs and society, government and public administration, government organizations - us, iab-business and finance, iab-industries, iab-medical health, iab-pharmaceutical drugs, iab-pharmaceutical industry, iab-politics, international alerts, international-health and science, international-us politics, marijuana, pharmaceutical industry, pharmaceuticals, pharmaceuticals and prescription drugs, politics, society, us congress, us department of health and human services, us federal departments and agencies, us food and drug administration, vitamins and supplements",
+            "snippet": "CNN \u2014\n\nCBD products will require a new regulatory pathway, the US Food and Drug Administration said Thursday, and the agency plans to work with Congress to de...",
+            "url": "https://www.cnn.com/2023/01/26/health/cbd-new-regulation-fda/index.html",
+            "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/230126150106-file-cbd-products.jpg?c=16x9&q=w_800,c_fill",
+            "language": "en",
+            "published_at": "2023-01-26T22:35:28.000000Z",
+            "source": "cnn.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": 20.345142,
+            "locale": "us"
+        },
+        {
+            "uuid": "bc383ef6-b17d-448a-8607-3aee534eea2e",
+            "title": "The US Just Greenlit High-Tech Alternatives to Animal Testing",
+            "description": "A new law allows drugmakers to use \u201corgans-on-chips\u201d instead.",
+            "keywords": "",
+            "snippet": "This story was originally published by Wired and is reproduced here as part of the Climate Desk collaboration.\n\nAnimal testing has long been necessary for a dru...",
+            "url": "https://www.motherjones.com/environment/2023/01/fda-modernization-approval-alternatives-animal-testing-drugs-pharma/",
+            "image_url": "https://www.motherjones.com/wp-content/uploads/2023/01/GettyImages-1231206239_2000x1124.jpeg?w=1200&h=630&crop=1",
+            "language": "en",
+            "published_at": "2023-01-21T11:00:54.000000Z",
+            "source": "motherjones.com",
+            "categories": [
+                "general",
+                "politics",
+                "entertainment"
+            ],
+            "relevance_score": 19.93869,
+            "locale": "us"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "meta": {
+        "found": 35,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "ee3aa82f-5971-4f58-bf98-57b5eba36282",
+            "title": "Why Animal/Dental Health Focused Patterson Companies (PDCO) Shares Are Falling Today - Patterson Cos (NASDAQ:PDCO)",
+            "description": "Patterson Companies Inc\u00a0(NASDAQ: PDCO) reported Q2 FY24 net sales of $1.65 billion, up 1.6% Y/Y, missing the",
+            "keywords": "",
+            "snippet": "Loading... Loading... Loading...\n\nPatterson Companies Inc PDCO reported Q2 FY24 net sales of $1.65 billion, up 1.6% Y/Y, missing the consensus of $1.70 billion....",
+            "url": "https://www.benzinga.com/news/earnings/23/11/36001547/animaldental-health-focused-patterson-cuts-annual-guidance-amid-inflationary-pressures",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/11/29/pdco_1.png?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2023-11-29T16:13:02.000000Z",
+            "source": "benzinga.com",
+            "categories": [
+                "business"
+            ],
+            "relevance_score": 20.908073,
+            "locale": "us"
+        },
+        {
+            "uuid": "79aafbf4-55d5-42b0-9968-421a3b8d1192",
+            "title": "Florida lawmaker calls fake meat an \u2018affront to nature\u2019 in seeking ban on lab-grown products",
+            "description": "It's a meaty debate.\n\nA Florida lawmaker has introduced legislation that would ban the production of lab-grown meat, arguing that the process is an",
+            "keywords": "News, florida, legislation, meat",
+            "snippet": "He doesn\u2019t give a cluck.\n\nA Florida lawmaker has introduced legislation that would prohibit the production of lab-grown meat, arguing that the trend is an \u201c...",
+            "url": "https://nypost.com/2023/11/16/news/florida-rep-sirois-calls-fake-meat-an-affront-to-nature/",
+            "image_url": "https://nypost.com/wp-content/uploads/sites/2/2023/11/newspress-collage-q5pcb2opf-1700161831073.jpg?quality=75&strip=all&1700143931&w=1024",
+            "language": "en",
+            "published_at": "2023-11-16T19:14:27.000000Z",
+            "source": "nypost.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": 19.433807,
+            "locale": "us"
+        },
+        {
+            "uuid": "57717200-9923-4d3b-8365-f6ffdb2f3a91",
+            "title": "How Christopher \u201cSoul\u201d Eubanks fights for a better life \u2014 for animals and people of color alike",
+            "description": "Soul Eubanks, a changemaker in animal welfare and BIPOC rights, is one of Vox\u2019s Future Perfect 50 for 2023. This annual list highlights 50 people who are maki...",
+            "keywords": "",
+            "snippet": "Share All sharing options for: How Christopher \u201cSoul\u201d Eubanks fights for a better life \u2014 for animals and people of color alike\n\nFor Christopher \u201cSoul\u201d...",
+            "url": "https://www.vox.com/23948915/christopher-soul-eubanks-apex-advocacy-founder-future-perfect-50-2023",
+            "image_url": "https://cdn.vox-cdn.com/thumbor/6o00mP-S_kiv6wW83VOboLEOrF8=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25099522/03_Soul_Eubanks_Final_Dims.jpg",
+            "language": "en",
+            "published_at": "2023-11-29T11:37:43.000000Z",
+            "source": "vox.com",
+            "categories": [
+                "general",
+                "politics",
+                "entertainment"
+            ],
+            "relevance_score": 14.543879,
+            "locale": "us"
+        }
+    ]
+}

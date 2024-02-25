@@ -1,0 +1,65 @@
+{
+    "meta": {
+        "found": 24,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "a8539187-ca2f-40c2-a317-886ba5675274",
+            "title": "Weed Decriminalization On Ballot In Another Texas City, Hemp Seeds In Animal Feed And More Cannabis Regs",
+            "description": "Marijuana Decriminalization On May 2024 Ballot In Lubbock, Texas",
+            "keywords": "",
+            "snippet": "Loading... Loading...\n\nMarijuana Decriminalization On May 2024 Ballot In Lubbock, Texas\n\nLawmakers in Lubbock, Texas gave the green light to a resolution that w...",
+            "url": "https://www.benzinga.com/markets/cannabis/23/12/36150060/weed-decriminalization-on-ballot-in-another-texas-city-hemp-seeds-in-animal-feed-and-more-cannab",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/12/08/cannabis_reform_5_second_studio_and_eight_photo_by_shutterstock9.jpg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2023-12-08T17:03:31.000000Z",
+            "source": "benzinga.com",
+            "categories": [
+                "business"
+            ],
+            "relevance_score": 19.090294,
+            "locale": "us"
+        },
+        {
+            "uuid": "d7d85d55-c2a9-46d7-87da-072979959b91",
+            "title": "10 viral pet products you can find on Amazon to spoil your best friend",
+            "description": "We've selected 10 pet products on Amazon that will make your day-to-day life and your pets more enjoyable.",
+            "keywords": "",
+            "snippet": "Deciphering between what you need and don't need regarding pet essentials can be tricky, given the vast number of products available today. We've selected 10 pe...",
+            "url": "https://www.foxnews.com/lifestyle/amazon-viral-pet-products",
+            "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/Commerce-pet-needs-iStock-1480840566.png",
+            "language": "en",
+            "published_at": "2023-12-19T14:15:53.000000Z",
+            "source": "foxnews.com",
+            "categories": [
+                "general",
+                "politics"
+            ],
+            "relevance_score": 17.878872,
+            "locale": "us"
+        },
+        {
+            "uuid": "3f00927b-7e90-4165-9d6b-428d9d7712d3",
+            "title": "Why Apple is PETA's company of the year",
+            "description": "The animal rights group cheered Apple's decision to stop using leather in its accessories",
+            "keywords": "stella mccartney, Stella McCartney, iPhone, Veganism, IPhone 6, Shoe, Leather, IPhone, Adidas, Technology, Internet, IPhone 5s, Business, Finance, Product Red, Herm\u00e8s, Nike, IPhone 7, Artificial leather, Apple Watch, Apple Inc., Quartz",
+            "snippet": "Apple is PETA\u2019s 2023 darling. The animal rights group, known for controversial ads, named the iPhone maker its company of the year because it stopped using le...",
+            "url": "https://qz.com/why-apple-is-petas-company-of-the-year-1851089539",
+            "image_url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3e283b4d2869737c9681ac57aefd74e2.jpg",
+            "language": "en",
+            "published_at": "2023-12-11T20:00:24.000000Z",
+            "source": "qz.com",
+            "categories": [
+                "general",
+                "business",
+                "tech",
+                "entertainment"
+            ],
+            "relevance_score": 14.410162,
+            "locale": "us"
+        }
+    ]
+}
