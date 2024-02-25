@@ -9,6 +9,9 @@ function App() {
   const { darkModeEnabled } = useDarkMode();
   return (
     <div className="App">
+      <head>
+        <title>ComPred</title>
+      </head>
       <div className={darkModeEnabled ? "dark" : ""}>
         <Router>
           <Routes>
