@@ -1,4 +1,4 @@
-import { Data } from "plotly.js";
+import { Data, Layout } from "plotly.js";
 import Plot from "react-plotly.js";
 
 const BasicPlot = () => {
@@ -19,10 +19,13 @@ const BasicPlot = () => {
     yaxis: {
       title: "Y-axis",
     },
+    width: 100,
+    height: 100,
+    autosize: true,
   };
 
   return (
-    <div className="m-2">
+    <div className="w-1/4 m-2">
       <Plot data={data} layout={layout} />
     </div>
   );
