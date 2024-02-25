@@ -3,7 +3,7 @@ import { Commodity } from "../components/CItem";
 export const commodities: Commodity[] = [
   {
     name: "Fruit",
-    rank: 1,
+    rank: 2,
     post: {
       title:
         "Weed Decriminalization On Ballot In Another Texas City, Hemp Seeds In Animal Feed And More Cannabis Regs",
@@ -42,7 +42,7 @@ export const commodities: Commodity[] = [
   },
   {
     name: "Fish",
-    rank: 123,
+    rank: 1,
     post: {
       title:
         "'Confused' angler calls dad after catching odd fish. It tied a state record in Georgia",
@@ -81,7 +81,7 @@ export const commodities: Commodity[] = [
   },
   {
     name: "Vegetables",
-    rank: 123,
+    rank: 6,
     post: {
       title:
         "How to use ethylene absorbers to keep fruits and vegetables fresh - The Washington Post",
@@ -120,7 +120,7 @@ export const commodities: Commodity[] = [
   },
   {
     name: "Nuts",
-    rank: 9,
+    rank: 4,
     post: {
       title:
         "In Honor of Groundhog Day: 11 Skincare Products I Use Over and Over",
@@ -159,7 +159,7 @@ export const commodities: Commodity[] = [
   },
   {
     name: "Soybeans",
-    rank: 123,
+    rank: 5,
     post: {
       title:
         "Why Animal/Dental Health Focused Patterson Companies (PDCO) Shares Are Falling Today - Patterson Cos (NASDAQ:PDCO)",
@@ -202,7 +202,7 @@ export const commodities: Commodity[] = [
   },
   {
     name: "Animal Products",
-    rank: 123,
+    rank: 3,
     post: {
       title:
         "Bill Gates says fake meat products will \u2018eventually\u2019 be \u2018very good\u2019",
@@ -241,7 +241,7 @@ export const commodities: Commodity[] = [
   },
   {
     name: "Wheat",
-    rank: 20,
+    rank: 8,
     post: {
       title:
         "A woolly mammoth meatball? Scientists grew prehistoric meat with extinct animal DNA",
@@ -286,7 +286,7 @@ export const commodities: Commodity[] = [
   },
   {
     name: "Corn",
-    rank: 123,
+    rank: 7,
     post: {
       title:
         "Argentina's hoped-for record corn harvest threatened by sliding prices -exchange",
