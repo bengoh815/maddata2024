@@ -5,8 +5,8 @@ export type Commodity = {
   name: string;
   rank: number;
   dates: string[];
-  temp: number[];
-  production: number[];
+  temps: number[];
+  productions: number[];
   prices: number[];
 };
 
@@ -50,15 +50,13 @@ const CItem: React.FC<{ data: Commodity; i: number }> = ({ data, i }) => {
         </button>
       </h2>
       <div
-        id="accordion-open-body-3"
+        id={`accordion-open-body-${i}`}
         className={open ? "" : "hidden"}
         aria-labelledby="accordion-open-heading-3"
       >
         <div className="p-5 bg-blue-50 border border-t-0 border-gray-200 dark:border-gray-700">
           <div className="flex">
-            <BasicPlot />
-            <BasicPlot />
-            <BasicPlot />
+            <BasicPlot data={data} />
           </div>
         </div>
       </div>
