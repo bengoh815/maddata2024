@@ -1,9 +1,11 @@
 import { useState } from "react";
 import BasicPlot from "./BasicPlot";
+import CNews, { NewsData } from "./CNews";
 
 export type Commodity = {
   name: string;
   rank: number;
+  post?: NewsData;
   dates: string[];
   temps: number[];
   productions: number[];
@@ -55,8 +57,9 @@ const CItem: React.FC<{ data: Commodity; i: number }> = ({ data, i }) => {
         aria-labelledby="accordion-open-heading-3"
       >
         <div className="p-5 border border-t-0 border-gray-200 dark:border-gray-700">
-          <div className="flex">
+          <div className="flex justify-between">
             <BasicPlot data={data} />
+            {data.post && <CNews data={data.post} />}
           </div>
         </div>
       </div>
