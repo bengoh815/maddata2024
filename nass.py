@@ -5,8 +5,8 @@ import pandas as pd
 api_key = "58CCDF9D-24B1-396B-8A3A-D2C7D63F91B6"
 url = "https://quickstats.nass.usda.gov/api/api_GET/"
 
-crops = ["BARLEY", "BEANS", "BUCKWHEAT", "CANOLA", "CORN", "COTTON", "FLAXSEED", "HAY", "HERBS", "HOPS", 
-         "LENTILS", "MAPLE SYRUP", "MILLET", "MINT", "OATS", "PEANUTS", "PEAS", "RICE", "RYE", "SAFFLOWER", 
+crops = ["BARLEY", "BEANS", "CANOLA", "CORN", "COTTON", "FLAXSEED", "HAY", 
+         "MAPLE SYRUP", "MILLET", "MINT", "OATS", "PEANUTS", "PEAS", "RICE", 
          "SORGHUM", "SOYBEANS", "SUNFLOWER", "TOBACCO", "WHEAT"]
 month = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 commodities_csv = []
