@@ -22,8 +22,8 @@ const BasicPlot = () => {
   };
 
   return (
-    <div className="p-2">
-      <Plot data={data} layout={layout} />;
+    <div className="m-2">
+      <Plot data={data} layout={layout} />
     </div>
   );
 };
