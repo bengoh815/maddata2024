@@ -26,8 +26,7 @@ const CItem: React.FC<{ data: Commodity; i: number }> = ({ data, i }) => {
           onClick={toggleOpen}
         >
           <span className="flex items-center">
-            {data.rank} {data.name}
-            <div>Buy?</div>
+            #{data.rank} {data.name}
           </span>
           <svg
             data-accordion-icon
@@ -54,7 +53,7 @@ const CItem: React.FC<{ data: Commodity; i: number }> = ({ data, i }) => {
         className={open ? "" : "hidden"}
         aria-labelledby="accordion-open-heading-3"
       >
-        <div className="p-5 bg-blue-50 border border-t-0 border-gray-200 dark:border-gray-700">
+        <div className="p-5 border border-t-0 border-gray-200 dark:border-gray-700">
           <div className="flex">
             <BasicPlot data={data} />
           </div>

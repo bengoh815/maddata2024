@@ -17,7 +17,7 @@ type ChartData = {
   production: number;
 };
 
-const BasicPlot: React.FC<{ data: Commodity }> = ({ data }) => {
+const ProductionPlot: React.FC<{ data: Commodity }> = ({ data }) => {
   const convertData = (data: Commodity) => {
     const chartData: ChartData[] = [];
 
@@ -32,19 +32,12 @@ const BasicPlot: React.FC<{ data: Commodity }> = ({ data }) => {
     return chartData;
   };
   const chartData: ChartData[] = convertData(data);
-
-  const scaleProduction = (chartData: ChartData[]) => {
-    for (let i = 0; i < chartData.length; i++) {
-      chartData[i].production /= 1000000;
-    }
-  };
-  scaleProduction(chartData);
   const screenWidth = window.innerWidth;
 
   return (
     <div className=" m-2">
       <LineChart
-        width={(screenWidth * 3) / 6}
+        width={(screenWidth * 2) / 6}
         height={300}
         data={chartData}
         margin={{
@@ -59,12 +52,10 @@ const BasicPlot: React.FC<{ data: Commodity }> = ({ data }) => {
         <YAxis />
         <Tooltip />
         <Legend />
-        <Line type="monotone" dataKey="temp" stroke="#3480eb" />
-        <Line type="monotone" dataKey="price" stroke="#eb8934" />
-        <Line type="monotone" dataKey="production" stroke="#34eb37" />
+        <Line type="monotone" dataKey="production" stroke="#3480eb" />
       </LineChart>
     </div>
   );
 };
 
-export default BasicPlot;
+export default ProductionPlot;
