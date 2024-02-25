@@ -5,8 +5,7 @@ export const commodities: Commodity[] = [
     name: "Fruit",
     rank: 2,
     post: {
-      title:
-        "Weed Decriminalization On Ballot In Another Texas City, Hemp Seeds In Animal Feed And More Cannabis Regs",
+      title: "Russian official wants ban on vegetarianism for children",
       description:
         "Plant-based and raw food diets are \u2018unacceptable\u2019 for children, a Russian official has argued",
       url: "https://www.rt.com/russia/585271-russia-ban-vegetarianism-children/",
