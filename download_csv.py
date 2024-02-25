@@ -6,25 +6,17 @@ API_KEY = 'kWelKbzApdVVMZhSAfZCaEXLcUCEevuh'  # Consider using environment varia
 BASE_URL = 'https://www.ncdc.noaa.gov/cdo-web/api/v2/'
 
 
-stations = {'Barley': 'USC00427271',
-                'Beans': 'USC00396947',
-                'Canola': 'USC00396947',
+stations = {
+                'Fish': 'USW00053917',
+                'Animal Products': 'USC00419916',
+                'Fruit': 'USW00014751',
                 'Corn': 'USC00253652',
-                'Cotton': 'USW00053907',
-                'Flaxseed': 'USC00396947',
-                'Hay': 'USW00053907',
-                'Maple Syrup': 'USW00054768',
-                'Millet': 'USC00253652',
-                'Mint': 'USW00004139',
-                'Oats': 'USC00253652',
-                'Peanuts': 'USC00388426',
-                'Peas': 'USC00427271',
-                'Rice': 'USC00032978',
-                'Sorghum': 'USW00053974',
+                'Nuts': 'USC00040673',
+                'Vegetables': 'USC00040673',
                 'Soybeans': 'USC00253652',
-                'Sunflower': 'USC00396947',
-                'Tobacco': 'USC00383990',
-                'Wheat': 'USW00053974'
+                'Wheat': 'USW00053974',
+
+                
                 }
 
 def download_noaa_data(station_name, crop_name):
